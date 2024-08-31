@@ -1,3 +1,5 @@
+# program for rock,paper,scissors game . 
+
 import random
 
 def get_computer_choice():
